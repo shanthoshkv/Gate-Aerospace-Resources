@@ -26,6 +26,7 @@ Below is a list of key subjects and the corresponding textbooks included in this
 ### 5. **Propulsion**
 - *Gas Turbine Theory* – **H.I.H. Saravanamuttoo, G.F.C. Rogers, H. Cohen, P.V. Sayers**
 - *Fundamentals of Compressible Flow* – **S.M. Yahya**
+- - *Rocket Propulsion Elements* – **George P Sutton**
 
 ### 6. **Structures**
 - *Aircraft Structures for Engineering Students* – **T.H.G. Megson**
