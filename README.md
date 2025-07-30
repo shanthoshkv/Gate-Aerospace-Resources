@@ -32,4 +32,3 @@ This repository contains important reference textbooks widely regarded as standa
 
 ---
 
-## 📁 Repository Structure (Example)
