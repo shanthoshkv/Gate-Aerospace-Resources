@@ -76,3 +76,23 @@ If you find this repository useful, please consider ⭐ starring it. Your suppor
 ---
 
 
+#GATEAerospace
+#GATEAE
+#GATEAerospaceBooks
+#GATEAerospacePreparation
+#GATEMechanical
+#AerospaceEngineeringPDFs
+#GATE2025Aerospace
+#BSGrewalMathsPDF
+#JohnAndersonAerodynamics
+#PKNagThermodynamics
+#CengelFluidMechanics
+#GATEAEMaterials
+#IITNPTELGATE
+#NPTELAerospace
+#AircraftStructuresMegson
+#GasTurbineTheoryPDF
+#GATEAEResources
+#ISROPreparation
+#DRDOAerospace
+#GATEAerospaceStudyMaterial
